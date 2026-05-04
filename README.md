@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Sacha
 
-<!--
-**sacha-vedovatti/sacha-vedovatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant à EPITECH · Passionné par la cybersécurité & le développement logiciel**
 
-Here are some ideas to get you started:
+Je code, j'explore la sécurité informatique et j'aime construire des projets qui ont du sens.  
+Toujours en train d'apprendre quelque chose de nouveau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Ce que j'utilise
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
