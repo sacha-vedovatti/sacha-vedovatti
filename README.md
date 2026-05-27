@@ -28,6 +28,10 @@ Toujours en train d'apprendre quelque chose de nouveau.
 *A Fabric mod for Cobblemon Academy 2.0*<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
+**[Discord Apple Music Integration](https://github.com/sacha-vedovatti/DAMI)**<br>
+*Display your Apple Music activity on Discord*<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 **RPG Project (2027)**<br>
 *An RPG coming soon...*<br>
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
