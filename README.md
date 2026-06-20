@@ -40,6 +40,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**MIA — Minecraft IA**](https://github.com/sacha-vedovatti/MIA) | A minimal Minecraft bot subject for EPITECH Coding Club | ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**R-Type**](https://github.com/sacha-vedovatti/R-Type) | EPITECH R-Type Game Project (Uploaded) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | [**KTS Academy**](https://github.com/sacha-vedovatti/kts_academy) | A Fabric mod for Cobblemon Academy 2.0 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | [**DAMI**](https://github.com/sacha-vedovatti/DAMI) | Display your Apple Music activity on Discord | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **RPG Project** *(2027)* | An RPG game — coming soon | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
